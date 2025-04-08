@@ -1,4 +1,4 @@
-# Fluter
+# Flutter
 repositorio para começar a aprender Fluter
 Plano de estudo cursos Alura
 
